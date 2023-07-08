@@ -9,10 +9,6 @@
 body {
   font-family: "Kumbh Sans", sans-serif;
   background-color: hsl(185, 75%, 39%);
-  /* display: flex;
-  align-items: center;
-  justify-content: center;
-   */
    height: 100vh;
    overflow: hidden;
 }
@@ -27,7 +23,7 @@ body {
   border-radius: 1rem;
   position: absolute;
   top: 50vh;
-  left: 50vh;
+  left: 50vw;
   transform: translate(-50%, -50%);
 }
 
